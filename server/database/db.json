@@ -1,0 +1,57 @@
+{
+  "documents": [
+    {
+      "id": 1,
+      "category": "Regulation",
+      "title": "Minimum Attendance Requirement",
+      "keywords": [
+        "attendance",
+        "minimum",
+        "eligibility"
+      ],
+      "content": "Students must maintain a minimum of 75% attendance in each course to be eligible to appear for the semester examination."
+    },
+    {
+      "id": 2,
+      "category": "Circular",
+      "title": "Semester Exam Registration",
+      "keywords": [
+        "exam",
+        "registration",
+        "last date",
+        "deadline"
+      ],
+      "content": "The last date for semester exam registration is 15th September 2026. Late registration with a fine is allowed until 20th September 2026."
+    },
+    {
+      "id": 3,
+      "category": "Placement",
+      "title": "Placement Drive Eligibility",
+      "keywords": [
+        "placement",
+        "eligibility",
+        "cgpa",
+        "drive"
+      ],
+      "content": "Students with a CGPA of 6.5 or above and no active backlogs are eligible to register for the campus placement drive."
+    }
+  ],
+  "nextDocId": 4,
+  "history": [
+    {
+      "id": 1,
+      "question": "How much attendance do I need to maintain?",
+      "answer": "According to Regulation \"Minimum Attendance Requirement\": Students must maintain a minimum of 75% attendance in each course to be eligible to appear for the semester examination.",
+      "matchedDocId": 1,
+      "askedAt": "2026-08-28T06:56:05.503Z"
+    },
+    {
+      "id": 2,
+      "question": "Am I eligible for the placement drive?",
+      "answer": "According to Placement \"Placement Drive Eligibility\": Students with a CGPA of 6.5 or above and no active backlogs are eligible to register for the campus placement drive.",
+      "matchedDocId": 3,
+      "askedAt": "2026-08-31T00:48:35.127Z"
+    }
+  ],
+  "nextHistoryId": 3
+}
